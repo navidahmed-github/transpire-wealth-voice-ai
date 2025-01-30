@@ -13,8 +13,10 @@
   "dependencies": {
     "@fastify/formbody": "^8.0.0",
     "@fastify/websocket": "^11.0.0",
+    "brew": "^0.0.8",
     "dotenv": "^16.4.5",
     "fastify": "^5.0.0",
+    "homebrew": "^0.1.0",
     "ws": "^8.18.0"
   }
 }
